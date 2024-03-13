@@ -1,5 +1,5 @@
 
-# Nginx Local App
+# Nginx Simple Local App
 
 This repository is for deploy basic nginx webserver and run a default page using nginx.
 
